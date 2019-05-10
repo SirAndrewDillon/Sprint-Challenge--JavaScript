@@ -32,8 +32,8 @@
 
 
 
-![](challenges\koolaid.jpg)
+![Adam+Savage](https://user-images.githubusercontent.com/11761437/57549710-4550e800-7332-11e9-9370-ee952c21a160.jpg)
 
 
 
- 	:metal:
+
