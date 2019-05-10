@@ -32,7 +32,8 @@
 
 
 
-![kOOLAID mAN](/SPRINT-CHALLANGE--JAVASCRIPT/challanges/koolaid.jpg)
+![kOOLAID mAN](challenges\koolaid.jpg)
 
 
 
+ 	:metal:
