@@ -32,7 +32,7 @@
 
 
 
-![kOOLAID mAN](challenges\koolaid.jpg)
+![](challenges\koolaid.jpg)
 
 
 
